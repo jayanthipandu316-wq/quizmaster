@@ -1,0 +1,31 @@
+{
+  "student01": {
+    "password": "scrypt:32768:8:1$xLDyEgfe5GV5ySqM$dd3902fbd054b6072418c3f57103ea979db5c7162fbed4d2a54d6e47da4686faa9db12538401fbeb78a617d521ed89accdf72e49f8cabce2c59aef40d558d83c",
+    "points": 30,
+    "unlocked": [
+      "Python",
+      "HTML & CSS"
+    ],
+    "completed": [
+      "Python"
+    ],
+    "best_scores": {
+      "Python": 100
+    },
+    "history": [
+      {
+        "subject": "Python",
+        "level": "Easy",
+        "score": 100,
+        "earned": 30,
+        "date": "2026-11-26",
+        "daily": false
+      }
+    ],
+    "achievements": [
+      "first_quiz",
+      "perfect_score"
+    ],
+    "created": "2026-11-26"
+  }
+}
